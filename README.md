@@ -71,6 +71,9 @@ by query type, and a list of any misses. This also writes
 
 **5. Launch the UI:**
 
+> Skip this step if you just want to try it — the live demo link at the top
+> already runs this exact app.
+
 ```bash
 streamlit run app.py
 ```
@@ -80,9 +83,18 @@ it doesn't, click the URL it prints in the terminal.
 
 - **Search tab**: type a query, see ranked results as chat bubbles, with the
   matched message glowing and full surrounding context/thread shown.
+
+  <img width="1810" height="797" alt="Screenshot 2026-09-08 090942" src="https://github.com/user-attachments/assets/bb97b1c4-0e90-4800-8bca-8915fe54ed7d" />
+  
+  <img width="1773" height="802" alt="image" src="https://github.com/user-attachments/assets/8ce88766-d0b9-4054-80b9-0a00a8ae89b9" />
+
 - **Eval Dashboard tab**: the scorecard for all 41 queries — this is what you
   screen-record for your demo video, alongside a couple of live searches in
   the Search tab.
+  
+  <img width="1667" height="822" alt="image" src="https://github.com/user-attachments/assets/fa095393-b5cd-4798-a26f-45fd8050549e" />
+   
+   <img width="1760" height="777" alt="image" src="https://github.com/user-attachments/assets/fbf10869-f1af-49f3-98c9-f6a2c6e83b60" />
 
 **To regenerate everything from scratch** (new random corpus, e.g. to prove
 it's not overfit to one seed): change `random.seed(42)` at the top of
