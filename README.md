@@ -1,5 +1,5 @@
 # ChatMind — Semantic Search for Group Chats
-
+🔗 **Live Demo:** https://groupchat-semantic-search-jy46usgf9q7cvchxthcdmq.streamlit.app
 "When did we decide on Manali?" You remember the meaning, not the words. This
 project builds search that understands meaning over a synthetic WhatsApp-style
 group chat — semantic, attributed ("what did X say"), and temporal ("last
