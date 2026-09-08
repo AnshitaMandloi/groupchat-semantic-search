@@ -1,0 +1,289 @@
+[
+ {
+  "query": "when did we decide on Manali",
+  "answer_message_id": "m00016",
+  "query_type": "semantic",
+  "no_word_overlap": false,
+  "note": "classic paraphrase case - 'decide' never appears in answer"
+ },
+ {
+  "query": "what's our final vacation spot",
+  "answer_message_id": "m00016",
+  "query_type": "semantic",
+  "no_word_overlap": true,
+  "note": "no overlap: 'vacation'/'spot' vs 'Manali fix hai'"
+ },
+ {
+  "query": "did we ever finalize the trip destination",
+  "answer_message_id": "m00016",
+  "query_type": "semantic",
+  "no_word_overlap": true,
+  "note": "no overlap: 'finalize'/'destination'/'trip' absent from answer"
+ },
+ {
+  "query": "who suggested we go to a cold place instead of the beach",
+  "answer_message_id": "m00005",
+  "query_type": "semantic",
+  "no_word_overlap": true,
+  "note": "no overlap: 'cold place'/'beach' vs 'hill station chalte hain'"
+ },
+ {
+  "query": "what dates did we lock for the Manali trip",
+  "answer_message_id": "m00020",
+  "query_type": "semantic",
+  "no_word_overlap": true,
+  "note": ""
+ },
+ {
+  "query": "has the trip booking been confirmed",
+  "answer_message_id": "m00044",
+  "query_type": "semantic",
+  "no_word_overlap": false,
+  "note": ""
+ },
+ {
+  "query": "where are we staying in Manali",
+  "answer_message_id": "m00039",
+  "query_type": "semantic",
+  "no_word_overlap": false,
+  "note": "no overlap: 'staying' vs 'homestay ... Old Manali'"
+ },
+ {
+  "query": "what's the plan for Diwali this year",
+  "answer_message_id": "m00047",
+  "query_type": "semantic",
+  "no_word_overlap": false,
+  "note": ""
+ },
+ {
+  "query": "how much will the Diwali celebration cost each person",
+  "answer_message_id": "m00057",
+  "query_type": "semantic",
+  "no_word_overlap": true,
+  "note": "no overlap: 'celebration'/'cost'/'each person' vs '5k per head'"
+ },
+ {
+  "query": "which trek did we finally pick",
+  "answer_message_id": "m00030",
+  "query_type": "semantic",
+  "no_word_overlap": true,
+  "note": ""
+ },
+ {
+  "query": "was anyone scared to go on the trek",
+  "answer_message_id": "m00025",
+  "query_type": "semantic",
+  "no_word_overlap": true,
+  "note": "no overlap: 'scared' vs 'dar lagta hai'"
+ },
+ {
+  "query": "where did we eat after the trek",
+  "answer_message_id": "m00032",
+  "query_type": "semantic",
+  "no_word_overlap": true,
+  "note": "no overlap: 'eat'/'after' vs 'dhaba pe rukte hain'"
+ },
+ {
+  "query": "did someone's laptop stop working",
+  "answer_message_id": "m00126",
+  "query_type": "semantic",
+  "no_word_overlap": false,
+  "note": "no overlap: 'stop working' vs 'crash ho gaya'"
+ },
+ {
+  "query": "who quit their job",
+  "answer_message_id": "m00070",
+  "query_type": "semantic",
+  "no_word_overlap": true,
+  "note": "no overlap: 'quit'/'job' vs 'resignation de diya'"
+ },
+ {
+  "query": "is anyone starting a new fitness routine",
+  "answer_message_id": "m00217",
+  "query_type": "semantic",
+  "no_word_overlap": true,
+  "note": ""
+ },
+ {
+  "query": "what mode of transport are we taking to Manali",
+  "answer_message_id": "m00036",
+  "query_type": "semantic",
+  "no_word_overlap": true,
+  "note": ""
+ },
+ {
+  "query": "what did Priya say about the budget",
+  "answer_message_id": "m00051",
+  "query_type": "attributed",
+  "no_word_overlap": true,
+  "note": ""
+ },
+ {
+  "query": "what did Priya say about the Manali budget",
+  "answer_message_id": "m00009",
+  "query_type": "attributed",
+  "no_word_overlap": true,
+  "note": ""
+ },
+ {
+  "query": "what did Vikram suggest for the weekend",
+  "answer_message_id": "m00021",
+  "query_type": "attributed",
+  "no_word_overlap": false,
+  "note": ""
+ },
+ {
+  "query": "what did Ishaan say about the homestay",
+  "answer_message_id": "m00039",
+  "query_type": "attributed",
+  "no_word_overlap": false,
+  "note": ""
+ },
+ {
+  "query": "did Priya agree to come on the trek",
+  "answer_message_id": "m00028",
+  "query_type": "attributed",
+  "no_word_overlap": true,
+  "note": "no overlap: 'agree' vs 'nahi aa paungi' (she declines)"
+ },
+ {
+  "query": "what did Karan finalize about the trek plan",
+  "answer_message_id": "m00030",
+  "query_type": "attributed",
+  "no_word_overlap": true,
+  "note": ""
+ },
+ {
+  "query": "what did Sneha say about her leave",
+  "answer_message_id": "m00019",
+  "query_type": "attributed",
+  "no_word_overlap": false,
+  "note": ""
+ },
+ {
+  "query": "what did Rohan say about booking the bus tickets",
+  "answer_message_id": "m00034",
+  "query_type": "attributed",
+  "no_word_overlap": false,
+  "note": ""
+ },
+ {
+  "query": "what did Neha say about the trek being scary",
+  "answer_message_id": "m00025",
+  "query_type": "attributed",
+  "no_word_overlap": true,
+  "note": ""
+ },
+ {
+  "query": "what did Priya promise about lowering the party cost",
+  "answer_message_id": "m00055",
+  "query_type": "attributed",
+  "no_word_overlap": true,
+  "note": "no overlap: 'promise'/'lowering' vs 'main final number 40k tak le aaungi'"
+ },
+ {
+  "query": "what did we discuss in April about a trip",
+  "answer_message_id": "m00016",
+  "query_type": "temporal",
+  "no_word_overlap": true,
+  "note": ""
+ },
+ {
+  "query": "what plans were made in May",
+  "answer_message_id": "m00030",
+  "query_type": "temporal",
+  "no_word_overlap": true,
+  "note": ""
+ },
+ {
+  "query": "what happened with the trip booking in June",
+  "answer_message_id": "m00044",
+  "query_type": "temporal",
+  "no_word_overlap": false,
+  "note": ""
+ },
+ {
+  "query": "what was decided in August about Diwali",
+  "answer_message_id": "m00055",
+  "query_type": "temporal",
+  "no_word_overlap": true,
+  "note": ""
+ },
+ {
+  "query": "what did the group talk about right after the trip was booked",
+  "answer_message_id": "m00258",
+  "query_type": "temporal",
+  "no_word_overlap": true,
+  "note": ""
+ },
+ {
+  "query": "what was discussed the week the Manali trip was finalized",
+  "answer_message_id": "m00017",
+  "query_type": "temporal",
+  "no_word_overlap": true,
+  "note": ""
+ },
+ {
+  "query": "what happened around the time everyone paid into the group fund",
+  "answer_message_id": "m00043",
+  "query_type": "temporal",
+  "no_word_overlap": false,
+  "note": ""
+ },
+ {
+  "query": "what came up in the chat before the Diwali party venue was chosen",
+  "answer_message_id": "m00047",
+  "query_type": "temporal",
+  "no_word_overlap": false,
+  "note": ""
+ },
+ {
+  "query": "did anyone complain about traffic",
+  "answer_message_id": "m00106",
+  "query_type": "semantic",
+  "no_word_overlap": false,
+  "note": ""
+ },
+ {
+  "query": "did someone say the wifi was not working",
+  "answer_message_id": "m00121",
+  "query_type": "semantic",
+  "no_word_overlap": false,
+  "note": "no overlap: 'not working' vs 'phir se down'"
+ },
+ {
+  "query": "who mentioned buying a new phone",
+  "answer_message_id": "m00258",
+  "query_type": "semantic",
+  "no_word_overlap": false,
+  "note": ""
+ },
+ {
+  "query": "is there any weather update forward in the chat",
+  "answer_message_id": "m00069",
+  "query_type": "semantic",
+  "no_word_overlap": false,
+  "note": ""
+ },
+ {
+  "query": "what health advice was forwarded in the group",
+  "answer_message_id": "m00245",
+  "query_type": "semantic",
+  "no_word_overlap": false,
+  "note": "no overlap: 'health advice' vs 'Drink warm water every morning'"
+ },
+ {
+  "query": "who is planning to diet",
+  "answer_message_id": "m00190",
+  "query_type": "semantic",
+  "no_word_overlap": false,
+  "note": ""
+ },
+ {
+  "query": "what venue did we pick for Diwali",
+  "answer_message_id": "m00049",
+  "query_type": "semantic",
+  "no_word_overlap": true,
+  "note": ""
+ }
+]
